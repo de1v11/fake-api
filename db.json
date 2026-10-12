@@ -1,0 +1,53 @@
+{
+  "categories" : [
+    {
+      "id" : 1,
+      "name" : "Java 22"
+    },
+
+    {
+      "id": 2,
+      "name": "Sprting Boot"
+
+    },
+    {
+      "id": 3,
+      "name": "TypeScript"
+    },
+    {
+      "id": 4,
+      "name": "Angular"
+    }
+
+
+
+  ],
+
+  "courses" : [
+    {
+      "id": 1,
+      "title": "Java for beginners",
+      "description": "An introduction course to java Programing language",
+      "category": 1
+    },
+    {
+      "id": 2,
+      "title": "Advanced Java Concepts",
+      "description": "An exsaustived deep dive into advanced Java programing topics",
+      "category": 2
+    },
+    {
+      "id": 3,
+      "title": "Angular for beginners",
+      "description": "An introduction course to Angular Frameworks",
+      "category": 3
+    },
+    {
+      "id": 4,
+      "title": "TypeScript for beginners",
+      "description": "An introduction course to java Programing language",
+      "category": 4
+    }
+  ]
+
+}
